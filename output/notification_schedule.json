@@ -1,0 +1,66 @@
+{
+  "global_schedule": {
+    "monday": {
+      "times": [
+        7,
+        10,
+        21
+      ],
+      "count": 3
+    },
+    "tuesday": {
+      "times": [
+        7,
+        17,
+        21
+      ],
+      "count": 3
+    },
+    "wednesday": {
+      "times": [
+        13,
+        18,
+        23
+      ],
+      "count": 3
+    },
+    "thursday": {
+      "times": [
+        10,
+        13,
+        20
+      ],
+      "count": 3
+    },
+    "friday": {
+      "times": [
+        11,
+        16,
+        22
+      ],
+      "count": 3
+    },
+    "saturday": {
+      "times": [
+        13,
+        16,
+        20
+      ],
+      "count": 3
+    },
+    "sunday": {
+      "times": [
+        7,
+        15,
+        23
+      ],
+      "count": 3
+    }
+  },
+  "analysis_metadata": {
+    "total_users_analyzed": 101,
+    "data_period_days": 90,
+    "total_activity_records": 2999,
+    "analysis_date": "2025-11-01"
+  }
+}
